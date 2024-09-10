@@ -12,4 +12,21 @@
 -->
 
 
-# JEOMMECHU
+# JEOMMECHU 프로젝트 소개
+AI기반으로 식당 추천 및 예약 웹사이트로
+식사를 할 때마다 매번 "오늘은 뭘 먹지?" 라는 고민을 좀 덜어주기 위한 편의성을 제공하고 AI를 이용해 식당을 추천 받을 수 있고 예약까지 할 수 있는 프로젝트입니다.
+
+
+# 팀 구성원
+이민혁
+최혜진
+전수민
+김재은
+조정인
+
+
+ <img src="https://img.shields.io/badge/Redis-#FF4438?style=flat&logo=TypeScript&logoColor=white"/>
+
+   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
+
