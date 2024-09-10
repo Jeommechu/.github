@@ -18,14 +18,18 @@ AI기반으로 식당 추천 및 예약 웹사이트로
 
 
 # 팀 구성원
-이민혁
-최혜진
-전수민
-김재은
-조정인
 
+<table>
+<tbody>
+<tr><td>이민혁</td></tr>
+<tr><td>최혜진</td></tr>
+<tr><td>전수민</td></tr>
+<tr><td>김재은</td></tr>
+<tr><td>조정인</td></tr>
+</tbody>
+</table>
 
- <img src="https://img.shields.io/badge/Redis-#FF4438?style=flat&logo=TypeScript&logoColor=white"/>
+# 역할분담
 
 
 
