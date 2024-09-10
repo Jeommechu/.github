@@ -27,6 +27,6 @@ AI기반으로 식당 추천 및 예약 웹사이트로
 
  <img src="https://img.shields.io/badge/Redis-#FF4438?style=flat&logo=TypeScript&logoColor=white"/>
 
-   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
 
 
